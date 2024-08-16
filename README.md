@@ -43,7 +43,7 @@ The data for this project is sourced from Rebrickable, which has compiled extens
    pip install pandas matplotlib
    ```
 
-3. **Run the notebook**: Open and run the `Lego_Analysis_for_Course_(start).ipynb` Jupyter Notebook to see the analysis in action. This notebook will guide you through each step of the analysis, from data exploration to visualization.
+3. **Run the notebook**: Open and run the `Lego_Analysis.ipynb` Jupyter Notebook to see the analysis in action. This notebook will guide you through each step of the analysis, from data exploration to visualization.
 
 ## License
 
